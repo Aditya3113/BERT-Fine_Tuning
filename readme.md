@@ -278,21 +278,6 @@ The CNN captures **short-term local context** while BERT handles **long-term glo
 
 ---
 
-## 📝 Citation
-
-```bibtex
-@article{yourname2025suicide,
-  title   = {Comparative Analysis of Transformer-based Models with
-             Multi-Scale CNN Attention Fusion for Suicidal Ideation
-             Detection in Social Media Text},
-  author  = {Your Name},
-  year    = {2025},
-  journal = {Your Journal/Conference}
-}
-```
-
----
-
 ## ⚠️ Ethical Note
 
 This project is strictly for **academic research purposes**. The dataset contains sensitive mental health content. All work should be conducted responsibly with respect to the individuals whose posts form the dataset, and any real-world deployment of such a system should be supervised by qualified mental health professionals.
